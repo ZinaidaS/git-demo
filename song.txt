@@ -1,10 +1,5 @@
-Это файл песни для добавления в гит.
 sword and spear
 wall of shields
 
-sljlalfjals
-ksajflsjlfa
-sljafllkfj
 
-some content
-end again
+
